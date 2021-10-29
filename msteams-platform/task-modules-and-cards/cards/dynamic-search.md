@@ -40,8 +40,8 @@ As you start entering the texts, the choices are filtered down to choices that p
 
 The following image demonstrates static typeahead search:
 
-![Static typeahead search](../../assets/images/cards/static-type-ahead-search.png)
- 
+![Static typehead search](...\assets\images\Cards\static-typehead-search.gif)
+
 ## Dynamic typeahead search
 
 Dynamic typeahead search is useful to search and select data from large data sets. The data sets are loaded dynamically from the remote backend. 
